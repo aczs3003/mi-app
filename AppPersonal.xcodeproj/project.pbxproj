@@ -129,7 +129,7 @@
 				86AF0E1189634A068D4C1F67 /* Assets.xcassets */,
 			);
 			path = Resources;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		D725EB964DCC4A37A294FD0A /* Views */ = {
 			isa = PBXGroup;

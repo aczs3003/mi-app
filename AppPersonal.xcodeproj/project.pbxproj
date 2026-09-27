@@ -141,7 +141,7 @@
 				9CD44BB9D83145BE9F95E81E /* Statistics */,
 			);
 			path = Views;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		8B349768B1074514B0690EBB /* App */ = {
 			isa = PBXGroup;
@@ -149,7 +149,7 @@
 				CDDFA9F1FF9E4E7FABD11D3A /* AppPersonalApp.swift */,
 			);
 			path = App;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		52855AECAFC746588A38A08C /* Models */ = {
 			isa = PBXGroup;
@@ -162,7 +162,7 @@
 				3944DF13A69A4AA6AE4731C3 /* TaskRecord.swift */,
 			);
 			path = Models;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		037E6699C1B44DF7A768879F /* ViewModels */ = {
 			isa = PBXGroup;
@@ -174,7 +174,7 @@
 				05A318F8FA2B4A818A1A3DC0 /* TaskViewModel.swift */,
 			);
 			path = ViewModels;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		51BFA50E2155420C9B14DD02 /* Services */ = {
 			isa = PBXGroup;
@@ -185,7 +185,7 @@
 				6FFF1A772B4C43E382C8288D /* TaskHistoryService.swift */,
 			);
 			path = Services;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		D837DBFAF12344B39535740F /* Persistence */ = {
 			isa = PBXGroup;
@@ -193,7 +193,7 @@
 				8A75995C31304D5B920B5ED1 /* ModelContainer.swift */,
 			);
 			path = Persistence;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		9CE7D17618994F84AC3AA79B /* Utilities */ = {
 			isa = PBXGroup;
@@ -203,7 +203,7 @@
 				E32D25F6C9A347BEBAD57675 /* DateUtilities.swift */,
 			);
 			path = Utilities;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		17F4DF95411B4E16947E1994 /* Dashboard */ = {
 			isa = PBXGroup;
